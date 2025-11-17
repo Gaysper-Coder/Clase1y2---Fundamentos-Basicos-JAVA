@@ -1,4 +1,4 @@
-# Clase1y2-ConceptosFundamentalesJava-Teaser
+# Clase1-ConceptosFundamentalesJava
 
 ## Conceptos básicos repasados (App.java)
 
